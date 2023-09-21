@@ -63,7 +63,9 @@ The script generates the following outputs:
 
 - Investment Projections: It provides a range of possible outcomes for an initial investment of both $20,000 and $30,000 over the course of the next 30 years, complete with a 95% confidence interval. This information aids in assessing the potential long-term performance of your investments under varying starting conditions.
 
-- ![image](https://github.com/Aaronbunting/Personal_financial_Planning_portfolio/assets/128101698/c9b71994-b399-4c08-b7e9-a51a1af1b836)
+  
+![image](https://github.com/Aaronbunting/Personal_financial_Planning_portfolio/assets/128101698/bec1a67d-56a5-470b-a438-5aa0581e1ede)
+
 
 
 ## Disclaimer
