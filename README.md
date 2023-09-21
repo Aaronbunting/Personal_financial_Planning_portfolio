@@ -72,6 +72,4 @@ The script generates the following outputs:
 
 **Disclaimer:** This script is for informational purposes only and should not be considered financial advice. The results of the Monte Carlo simulation are based on historical data and should not be considered indicative of future performance. Always consult a financial advisor before making investment decisions.
 
-*Note: Insert any additional information or screenshots as needed to provide clarity and context to your users.*
-
 
