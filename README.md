@@ -1,7 +1,5 @@
 # Personal_financial_Planning_portfolio
 
-# Personal Finance Planner
-
 ## Overview
 
 This Python script serves as a tool to assist users in gaining insights into their financial assets, thereby aiding them in making informed financial choices. It accomplishes this by retrieving real-time data on cryptocurrency and stock prices, performing calculations to determine the current value of the user's assets, and conducting a Monte Carlo simulation to forecast the potential growth of their stock and bond investments over a 30-year period.
